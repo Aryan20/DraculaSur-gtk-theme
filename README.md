@@ -1,6 +1,6 @@
 # Dracula for [GTK](https://www.gtk.org/)
 
-> A dark theme for [GTK](https://www.gtk.org/) 
+> A dark theme for [GTK](https://www.gtk.org/), based on [WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 ![Screenshot](./screenshot.png)
 
