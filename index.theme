@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=DraculaSur-gtk-theme-dark-solid-purple
+Comment=A MacOS BigSur like Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=DraculaSur-gtk-theme-dark-solid-purple
+MetacityTheme=DraculaSur-gtk-theme-dark-solid-purple
+IconTheme=DraculaSur-gtk-theme-dark
+CursorTheme=DraculaSur-cursors
+ButtonLayout=close,minimize,maximize:menu
+
